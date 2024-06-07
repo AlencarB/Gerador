@@ -1,0 +1,17 @@
+Foi criado 3 arquivos nas liguahens CSS, JAVASCRIPT e HTML
+
+HTML
+    INCLUI UM CAMPO DE ENTRADA  PARA ESPECIFICAR A QUANTIDADE DE SEGUENCIAS DE NUMEROS
+    E BOTOES PARA GERAR AS SEGUENCIAS
+
+CSS 
+    PARTE DO VISUAL DA PAGINA E OS ELEMENTOS
+
+JAVASCRIPT
+    generateUnique Number: Gera um número único de 6 dígitos.
+
+    generate Numbers: Gera a quantidade especificada de números únicos, limpa a lista e adiciona os números gerados à lista no HTML.
+
+    addNumber ToList: Adiciona o número gerado à lista no HTML.
+
+    generate Button EventListener: Lê a quantidade de sequências desejada e chama generate Numbers para gerar e exibir os números.
